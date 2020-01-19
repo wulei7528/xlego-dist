@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,SACE,kBACF,CAEA,4BACE,eACF","file":"8.c5e29e52.chunk.css","sourcesContent":[".row-add {\n  background: rgb(250, 203, 133);\n}\n\n.report-table tr:last-child {\n  font-weight: bold;\n}\n"]}
